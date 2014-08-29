@@ -1,4 +1,3 @@
-juego-de-memoria
+Memory game jquery
 ================
 
-Juego de Memoria que funciona con imagenes
